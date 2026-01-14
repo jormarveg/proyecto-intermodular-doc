@@ -14,5 +14,5 @@
 
 ## Documentación
 
-*   **Editor:** [Visual Studio Code](https://code.visualstudio.com/) con plugin [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
-*   **Formato:** Plugin [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para indentaciones y estilos.
+- **Editor:** [Visual Studio Code](https://code.visualstudio.com/) con plugin [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
+- **Formato:** Plugin [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para indentaciones y estilos.
