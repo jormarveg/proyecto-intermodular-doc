@@ -19,7 +19,7 @@ Se han priorizado las siguientes decisiones de diseño:
 ## Creación de la base de datos
 
 <details markdown="1">
-  <summary>Despliegua para ver el código SQL para la generación de la estructura en MySQL/MariaDB.</summary>
+  <summary>Despliega para ver el código SQL para la generación de la estructura en MySQL/MariaDB.</summary>
 
 ```sql
 CREATE DATABASE IF NOT EXISTS LogNow;
