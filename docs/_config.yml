@@ -3,5 +3,3 @@ description: Documentación técnica de la App de seguimiento de videojuegos.
 plugins:
   - jekyll-remote-theme
 remote_theme: just-the-docs/just-the-docs
-mermaid:
-  version: "11.12.2"

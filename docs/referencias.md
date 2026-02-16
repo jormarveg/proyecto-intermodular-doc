@@ -23,3 +23,4 @@ nav_order: 7
 
 - **Editor:** [Visual Studio Code](https://code.visualstudio.com/) con plugin [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
 - **Formato:** Plugin [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) para indentaciones y estilos.
+- **Diseño de la documentación:** [Just the Docs](https://just-the-docs.com/), tema de Jekyll.
