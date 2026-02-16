@@ -1,0 +1,25 @@
+h1,
+h2,
+h3 {
+  font-family: $header-font-family;
+  color: #0f172a;
+}
+
+.side-bar {
+  border-right: 1px solid #1e293b;
+
+  .site-title {
+    font-family: $header-font-family;
+    color: #0f172a;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+}
+
+.nav-list-item.active > .nav-list-link {
+  color: $nav-link-color-active !important;
+  background-color: rgba(56, 189, 248, 0.1);
+  border-left: 4px solid $nav-link-color-active; 
+  padding-left: 12px; 
+}
