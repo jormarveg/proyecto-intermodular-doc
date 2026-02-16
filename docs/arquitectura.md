@@ -1,3 +1,9 @@
+---
+layout: default
+title: Arquitectura
+nav_order: 5
+---
+
 # Arquitectura
 
 ## Diseño de datos

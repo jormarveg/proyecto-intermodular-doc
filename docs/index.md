@@ -1,3 +1,9 @@
+---
+layout: default
+title: Índice
+nav_order: 1
+---
+
 # Documentación Técnica - LogNow!
 
 Bienvenido a la documentación oficial del proyecto LogNow!.

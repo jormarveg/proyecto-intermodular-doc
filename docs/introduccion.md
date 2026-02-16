@@ -1,3 +1,9 @@
+---
+layout: default
+title: Introducción
+nav_order: 2
+---
+
 # Introducción
 
 **LogNow!** es una aplicación web orientada a usuarios que quieran llevar un registro de sus videojuegos, compartir opiniones y descubrir nuevos títulos.

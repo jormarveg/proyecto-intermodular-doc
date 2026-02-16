@@ -1,3 +1,10 @@
+---
+layout: default
+title: Referencias
+nav_order: 7
+---
+
+
 # Referencias
 
 ## Recursos externos

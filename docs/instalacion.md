@@ -1,3 +1,9 @@
+---
+layout: default
+title: Instalación
+nav_order: 3
+---
+
 # Instalación
 
 Se detallan los pasos necesarios para desplegar **LogNow!** en un entorno local de desarrollo (Stack LEMP).

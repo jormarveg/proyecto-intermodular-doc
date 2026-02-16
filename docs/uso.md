@@ -1,3 +1,9 @@
+---
+layout: default
+title: Manual de uso
+nav_order: 4
+---
+
 # Manual de uso
 
 ## Capturas

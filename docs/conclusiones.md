@@ -1,3 +1,10 @@
+---
+layout: default
+title: Conclusiones
+nav_order: 6
+---
+
+
 # Conclusiones
 
 ## Dificultades encontradas
