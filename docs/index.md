@@ -6,7 +6,7 @@ nav_order: 1
 
 # Documentación Técnica - LogNow!
 
-### Sistema profesional de gestión de backlog y biblioteca de videojuegos
+## Sistema de gestión de backlog y biblioteca de videojuegos
 
 
 **LogNow!** es una plataforma diseñada para centralizar la experiencia del jugador. Permite registrar tiempos de juego, organizar bibliotecas dispersas y compartir reseñas técnicas con la comunidad. 
